@@ -34,3 +34,9 @@ This suite is designed to strengthen automation skills by covering real-world sc
 - Gained hands-on experience with real-time testing scenarios  
 - Improved debugging and problem-solving skills  
 - Learned best practices for writing maintainable test scripts  
+
+---
+
+## 👤 Author
+
+**Hemanth R**  
